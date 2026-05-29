@@ -3,7 +3,7 @@
 ## Student Information
 Name: Eliza  
 Course: Web Development  
-Project: Website Project (Part 1)
+Project: Website Project (Part 1 and 2)
 
 ---
 
@@ -74,6 +74,48 @@ In Part 1, the following tasks were completed:
 - Created CSS folder and style.css file
 - Applied styling to the website
 - Fixed navigation errors (enquiry page)
+
+  In Part 2, the website was improved using CSS styling and responsive design techniques. The website was updated to create a more professional appearance and improve the user experience across different screen sizes.
+
+Improvements Made
+
+•	Added an external CSS stylesheet linked to all HTML pages
+•	Improved typography, spacing, and layout structure
+•	Added responsive navigation for smaller screens
+•	Added hover effects for navigation and buttons
+•	Styled forms, sections, and content areas
+•	Added responsive images to the homepage
+•	Applied media queries for tablet and mobile responsiveness
+•	Improved website content and readability
+•	Added HTML comments for better code understanding
+•	Responsive Design
+•	The website was tested on:
+•	Desktop screens
+•	Tablet screens
+•	Mobile devices
+•	Media queries were used to adjust:
+•	Navigation layout
+•	Font sizes
+•	Content spacing
+•	Button sizing
+
+Changelog
+
+•	Updated CSS styling for all pages
+•	Added responsive design using media queries
+•	Added responsive image to homepage
+•	Improved website layout and colours
+•	Added HTML comments to all pages
+•	Improved page content and structure
+•	Fixed feedback issues from Part 1
+•	Updated references and research evidence
+
+References
+
+•	Google Research
+•	Unsplash (Images)
+•	Pexels (Images)
+•	W3Schools HTML and CSS Tutorials
 
 ---
 
