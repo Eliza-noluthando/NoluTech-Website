@@ -1,73 +1,19 @@
-NoluTech Solutions Website
+# NoluTech Website A responsive multi-page website built as part of my web development portfolio. This project demonstrates my ability to design and develop a structured and responsive website using HTML, CSS, and JavaScript. --- ## 🌐 Live Website https://eliza-noluthando.github.io/NoluTech-Website/ --- ## 📌 Project Overview This website was created to showcase a simple business-style website with multiple pages. It includes a homepage, about page, services page, and contact page. The goal of this project was to demonstrate clean design, navigation between pages, and responsive layout for both desktop and mobile users. --- ## 🛠️ Technologies Used - HTML5 - CSS3 - JavaScript --- ## 📄 Pages - Home (index.html) - About (about.html) - Services (services.html) - Contact (contact.html) --- ## ✨ Features - Multi-page website structure - Responsive design for mobile and desktop devices - Navigation menu linking all pages - Clean and simple user interface - Basic JavaScript functionality (if included) --- ## 📁 Project Structure
 
-Student Information
+---
 
-Name: Eliza Nolu
+## 🚀 How to Run This Project Locally
+1. Clone or download the repository
+2. Open the project folder
+3. Double-click `index.html`
+4. The website will open in your browser
 
-Student Number: ST10499804
+---
 
-Project Overview
+## 👩🏽‍💻 Author
+Eliza Noluthando
 
-NoluTech Solutions is a small IT support and web development business website created to provide information about services, allow customer enquiries, and improve the online presence of the business.
+---
 
-Website Goals and Objectives
-
-Promote IT support services
-Promote web development services
-Increase business visibility
-Allow customer enquiries
-Provide contact information
-
-Website Pages
-
-Home
-About
-Services
-Enquiry
-Contact
-
-Technologies Used
-
-HTML5
-CSS3
-GitHub
-Visual Studio Code
-
-Part 1
-
-Project proposal completed
-Sitemap created
-Wireframes created
-HTML pages developed
-
-Part 2
-
-External CSS stylesheet created
-Blue and white colour scheme applied
-Typography styling added
-Navigation hover effects added
-Responsive design implemented
-Desktop, tablet and mobile testing completed
-Images added to the website
-
-Changelog
-Part 1
-
-Created website structure
-Developed HTML pages
-Created sitemap and wireframes
-
-Part 2
-
-Added external stylesheet
-Improved page layout and styling
-Added responsive image
-Added media queries for tablet and mobile devices
-Updated website content based on feedback
-
-References
-
-Pexels. Technology Images. https://www.pexels.com
-Unsplash. Technology Images. https://www.unsplash.com
-W3Schools. HTML, CSS and JavaScript Tutorials. https://www.w3schools.com
-Mozilla Developer Network. HTML and CSS Documentation. https://developer.mozilla.org
+## 📌 Note
+This project was built for learning purposes and to demonstrate front-end web development skills.
