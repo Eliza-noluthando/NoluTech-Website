@@ -1,86 +1,205 @@
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
+
     <!-- Website information -->
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Page title -->
+
 <title>Enquiry - NoluTech Solutions</title>
 
+
+
 <!-- Link to external CSS -->
+
 <link rel="stylesheet" href="css/style.css">
+
 </head>
+
 <body>
 
 <!-- Header section -->
+
 <header>
 
+
+
     <!-- Website heading -->
+
     <h1>NoluTech Solutions</h1>
 
+
+
     <!-- Navigation menu -->
+
     <nav>
+
         <a href="index.html">Home</a>
+
         <a href="about.html">About</a>
+
         <a href="services.html">Services</a>
+
         <a href="enquiry.html">Enquiry</a>
+
         <a href="contact.html">Contact</a>
+
     </nav>
+
+
 
 </header>
 
+
+
 <!-- Main content -->
+
 <main>
 
+
+
     <!-- Enquiry section -->
+
     <section>
+
+
 
         <h2>Send Us an Enquiry</h2>
 
+
+
         <p>
+
             Complete the form below and we will contact you as soon as possible.
+
         </p>
 
-        <!-- Enquiry form -->
-        <form>
 
-            <!-- Name field -->
-            <label for="name">Full Name:</label><br>
-            <input type="text" id="name" name="name"><br><br>
 
-            <!-- Email field -->
-            <label for="email">Email Address:</label><br>
-            <input type="email" id="email" name="email"><br><br>
+        <!-- Enquiry Form -->
 
-            <!-- Service selection -->
-            <label for="service">Select Service:</label><br>
-            <select id="service" name="service">
+        <form id="enquiryForm">
+
+
+
+            <!-- Full Name -->
+
+            <label for="name">Full Name:</label>
+
+            <input type="text" id="name" name="name" required>
+
+
+
+            <!-- Email -->
+
+            <label for="email">Email Address:</label>
+
+            <input type="email" id="email" name="email" required>
+
+
+
+            <!-- Phone -->
+
+            <label for="phone">Phone Number:</label>
+
+            <input type="tel" id="phone" name="phone" pattern="[0-9]{10}" required>
+
+
+
+            <!-- Service -->
+
+            <label for="service">Select Service:</label>
+
+            <select id="service" name="service" required>
+
+                <option value="">--Select a Service--</option>
+
                 <option>Website Development</option>
+
                 <option>Technical Support</option>
+
                 <option>Software Installation</option>
+
                 <option>Business IT Assistance</option>
-            </select><br><br>
 
-            <!-- Message field -->
-            <label for="message">Message:</label><br>
-            <textarea id="message" name="message" rows="5"></textarea><br><br>
+            </select>
 
-            <!-- Submit button -->
+
+
+            <!-- Budget -->
+
+            <label for="budget">Estimated Budget:</label>
+
+            <select id="budget" name="budget" required>
+
+                <option value="">--Select Budget--</option>
+
+                <option>R1 000 - R5 000</option>
+
+                <option>R5 001 - R10 000</option>
+
+                <option>R10 001+</option>
+
+            </select>
+
+
+
+            <!-- Message -->
+
+            <label for="message">Message:</label>
+
+            <textarea id="message" name="message" rows="5" minlength="10" required></textarea>
+
+
+
+            <br><br>
+
+
+
+            <!-- Submit Button -->
+
             <button type="submit">Submit Enquiry</button>
+
+
 
         </form>
 
+
+
+        <!-- JavaScript Response Message -->
+
+        <p id="responseMessage"></p>
+
+
+
     </section>
+
+
 
 </main>
 
-<!-- Footer section -->
+
+
+<!-- Footer -->
+
 <footer>
 
-    <p>© 2026 NoluTech Solutions | All Rights Reserved</p>
+    <p>&copy; 2026 NoluTech Solutions | All Rights Reserved</p>
 
 </footer>
 
+
+
+<!-- JavaScript File -->
+
+<script src="js/script.js"></script>
+
 </body>
+
 </html>
