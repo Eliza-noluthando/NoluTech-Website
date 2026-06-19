@@ -25,18 +25,21 @@ About
 Services
 Enquiry
 Contact
+
 Technologies Used
 
 HTML5
 CSS3
 GitHub
 Visual Studio Code
+
 Part 1
 
 Project proposal completed
 Sitemap created
 Wireframes created
 HTML pages developed
+
 Part 2
 
 External CSS stylesheet created
@@ -46,8 +49,8 @@ Navigation hover effects added
 Responsive design implemented
 Desktop, tablet and mobile testing completed
 Images added to the website
-Changelog
 
+Changelog
 Part 1
 
 Created website structure
@@ -61,6 +64,7 @@ Improved page layout and styling
 Added responsive image
 Added media queries for tablet and mobile devices
 Updated website content based on feedback
+
 References
 
 Pexels. Technology Images. https://www.pexels.com
