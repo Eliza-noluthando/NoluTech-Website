@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
-Sitemap: https://eliza-noluthando.github.oi/NoluTech-Website/sitemap.xml
+
+
+
+Sitemap: https://yourusername.github.io/NoluTech-Website/sitemap.xml
+
